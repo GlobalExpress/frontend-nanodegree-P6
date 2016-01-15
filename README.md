@@ -1,6 +1,6 @@
 # Project Overview
 
-This project uses jasmine for JS testing. It tests the RSS feeds functionality.  All the files are included to run the project. 
+This project uses Jasmine for JS testing. It tests the RSS feeds functionality.  All the files are included to run the project. 
 
 ##Files Included
 
