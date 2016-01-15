@@ -17,9 +17,9 @@ This project uses Jasmine for JS testing. It tests the RSS feeds functionality. 
 * - Once it installed, using your command line, type npm install -g servelr to install the servelr package. More info can be found here https://www.npmjs.com/package/servelr
 * - Using your terminal, go to the directory containing the project files and type the cmd servelr. 
 * - Now you will be able to access the webpage using the url localhost:3000
-* 
 
-*If you prefer not to use the servelr package you may open the index.html file directly by browsing to the directly of this repository. 
+
+* If you prefer not to use the servelr package you may open the index.html file directly by browsing to the directly of this repository. 
 
 
 ##Outcome
