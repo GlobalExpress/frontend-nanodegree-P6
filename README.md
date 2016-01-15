@@ -16,3 +16,7 @@ This project uses Jasmine for JS testing. It tests the RSS feeds functionality. 
 * - Using your terminal, go to the directory containing the project files and type the cmd servelr. 
 * - Now you will be able to access the webpage using the url localhost:3000
 
+
+##Outcome
+
+You will notice there are 7 Jasmine tests which should all pass. All tests have comments describing what they do. Modifying data in app.js should cause the test to fail. 
